@@ -1,2 +1,2 @@
-# Unixitry-Bot
-A bot based off of my template on my alt account DiscordBotCreator-png
+# The-Open-Source-Discord-Bot
+Meet the open source discord bot. If you want to edit this just dm me on discord at '[LeM] TheArchMonke#7848', Updates will be a little delayed, so if I say a feature will be added in version 7.0.0 it will actually be added 7.0.1 since I push from two editors, repl.it and VSCode

@@ -1,0 +1,6 @@
+{
+    "name":[
+        {"Syntax":"{PREFIX}name"},
+        {"purpose":"Make sure the bot is up"}
+    ]
+}
